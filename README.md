@@ -1,2 +1,2 @@
 # CodeForces
-for competitive programming praactice
+for competitive programming practice
